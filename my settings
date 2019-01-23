@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "files.defaultLanguage": "html",
+    "editor.tabSize": 2,
+    "workbench.editor.tabSizing": "shrink",
+    "editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.smoothScrolling": true,
+    
+}
